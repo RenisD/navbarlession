@@ -1,0 +1,10 @@
+
+#navbar {
+    background-color: lightskyblue;
+    display: flex;
+}
+
+img {
+    width: 100px;
+    align-self: center;
+}
